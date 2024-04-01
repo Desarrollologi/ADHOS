@@ -1,0 +1,691 @@
+
+body { margin: 0 !important;}
+
+p , strong, div {
+    font-family: 'Poppins';
+}
+
+
+/* ------------------------------------------------------------------------------------------------------------ */
+
+
+.section1{
+    position: relative;
+    width: 100%;
+    height: 100%;
+    margin: 0%;
+    color: #006e6b;
+}
+
+.hoja_1 {
+    position: relative;
+    width: 95%;
+    height: 100%;
+    margin: auto;
+}
+
+.hoja_2{
+    position: relative;
+    width: 95%;
+    height: 100%;
+    margin: 2% auto;
+    border: 1px solid #d4d4d4;
+}
+
+.hoja_3{
+    position: relative;
+    width: 95%;
+    height: 100%;
+    margin: 2% auto;
+    border: 1px solid #d4d4d4;
+}
+
+.hoja_4{
+    position: relative;
+    width: 95%;
+    height: 100%;
+    margin: 2% auto;
+    border: 1px solid #d4d4d4;
+}
+
+.hoja_5{
+    position: relative;
+    width: 95%;
+    height: 100%;
+    margin: 2% auto;
+    border: 1px solid #d4d4d4;
+}
+.hoja_6{
+    position: relative;
+    width: 95%;
+    height: 100%;
+    margin: 2% auto;
+    border: 1px solid #d4d4d4;
+}
+
+.hoja_interna {
+        position: relative;
+        width: 92%;
+        height: 100%;
+        margin: auto;
+}
+
+.col{
+    border: solid 1px #006e6b;
+    text-align: center;
+}
+
+.border_bott{
+    border-bottom: solid 0.5px #006e6b;
+}
+
+ p {margin: 0%;}
+
+/* ------------------------------------------------------------------------------------------------------------ */
+
+
+.inicio{
+    position: relative;
+    width: 100%;
+    height: 32vh;
+    margin: 0% 0px 0px 0px;
+}
+
+.cont_logo{
+    position: relative;
+    width: 30%;
+    height: 57%;
+    margin: auto;
+    top: 20%;
+}
+
+.logo{
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+
+.cont_form{
+    text-align: end;
+    position: absolute;
+    width: 30vh;
+    height: 20vh;
+    right: 0px;
+}
+
+.form_es{
+    position: relative;
+    width: 80%;
+}
+
+.titulo {
+    position: relative;
+    width: 100%;
+    height: 10vh;
+    display: flex;
+    margin: 0px 0px 2% 0px;
+}
+
+.cont_titulo {
+    position: relative;
+    width: 50%;
+    height: 100%;
+}
+.text-titulo {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    font-size: 2rem;
+    line-height: 1;
+    margin: 0;
+}
+.cont_fecha {
+    position: relative;
+    display: flex;
+    width: 50%;
+    height: 100%;
+    justify-content: end;
+}
+.text-fecha-dilig {
+    position: relative;
+    margin: auto 0;
+    width: 49%;
+    height: 50%;
+    font-size: 1.1em;
+}
+.input-fecha-dilig {
+    position: relative;
+    margin: auto 0;
+    width: 30%;
+    height: 50%;
+    text-align: center;
+    font-size: 1.4em;
+    border: solid 0;
+    color: #006e6b;
+    outline: none;
+}
+
+.titulo_tabla{
+    position: relative;
+    background-color: #006e6b;
+    color: #ffff;
+    text-align: center;
+    width: 100%;
+    height: 6%;
+    display: flex;
+}
+
+.text_titulo_tabla{
+    position: relative;
+    margin: auto;
+    width: 50%;
+    height: 70%;
+}
+
+.cont_tabla{
+    display: flex;
+    width: 100%;
+    height: 7vh;
+
+}
+
+.text_colum{
+    position: relative;
+    margin: auto;
+}
+.text_input{
+    position: relative;
+    margin: auto 0.5%;
+}
+.text_colum_inter{
+    position: relative;
+    margin: auto 0.5%;
+}
+.input_check{
+    position: relative;
+    margin: auto 0 auto 4%;
+}
+.input_text{
+    position: relative;
+    width: 98%;
+    height: 80%;
+    margin: auto 0 auto 0%;
+    border: solid 0;
+    outline: none;
+}
+
+.input_textv:focus{
+    border: solid 0;
+}
+
+/* --------------------------------------------------------------------------------------------------------------------------- */
+.a_1 {
+    position: relative;
+    width: 20%;
+    height: 100%;
+    display: flex;
+}
+.a_2 {
+    position: relative;
+    width: 30%;
+    height: 100%;
+    display: flex;
+}
+.a_3 {
+    position: relative;
+    width: 20%;
+    height: 100%;
+    display: flex;
+}
+.a_4 {
+    position: relative;
+    width: 30%;
+    height: 100%;
+    display: flex;
+}
+/* --------------------------------------------------------------------------------------------------------------------------- */
+.b_1{
+    position: relative;
+    width: 20%;
+    height: 100%;
+    display: flex;
+}
+.b_2{
+    position: relative;
+    width: 35%;
+    height: 100%;
+    display: flex;
+}
+.b_3{
+    position: relative;
+    width: 45%;
+    height: 100%;
+    display: flex;
+}
+
+/* --------------------------------------------------------------------------------------------------------------------------- */
+
+.c_1{
+    position: relative;
+    width: 20%;
+    height: 100%;
+    display: flex;
+}
+.c_2{
+    position: relative;
+    width: 22%;
+    height: 100%;
+    display: flex;
+}
+.c_3{
+    position: relative;
+    width: 26%;
+    height: 100%;
+    display: flex;
+}
+.c_4{
+    position: relative;
+    width: 18%;
+    height: 100%;
+    display: flex;
+}
+
+.input-fecha-docume{
+    position: relative;
+    margin: auto 0;
+    width: 100%;
+    height: 50%;
+    text-align: center;
+    font-size: 1.4em;
+    border: solid 0;
+    color: #006e6b;
+    outline: none;
+}
+.c_5{
+    position: relative;
+    width: 13%;
+    height: 100%;
+    display: flex;
+}
+
+/* --------------------------------------------------------------------------------------------------------------------------- */
+
+.d_1{
+    position: relative;
+    width: 20%;
+    height: 100%;
+    display: flex;
+}
+.d_2{
+    position: relative;
+    width: 22%;
+    height: 100%;
+    display: flex;
+}
+.d_3{
+    position: relative;
+    width: 26%;
+    height: 100%;
+    display: flex;
+}
+.d_4{
+    position: relative;
+    width: 12%;
+    height: 100%;
+    display: flex;
+}
+.d_5{
+    position: relative;
+    width: 19%;
+    height: 100%;
+    display: flex;
+}
+
+/* --------------------------------------------------------------------------------------------------------------------------- */
+
+.e_1{
+    position: relative;
+    width: 20%;
+    height: 100%;
+    display: flex;
+}
+.e_2{
+    position: relative;
+    width: 47%;
+    height: 100%;
+    display: flex;
+}
+.e_3{
+    position: relative;
+    width: 9%;
+    height: 100%;
+    display: flex;
+}
+.e_4{
+    position: relative;
+    width: 24%;
+    height: 100%;
+    display: flex;
+}
+
+
+/* --------------------------------------------------------------------------------------------------------------------------- */
+
+.f_1{
+    position: relative;
+    width: 20%;
+    height: 100%;
+    display: flex;
+}
+.f_2{
+    position: relative;
+    width: 23%;
+    height: 100%;
+    display: flex;
+}
+.f_3{
+    position: relative;
+    width: 10%;
+    height: 100%;
+    display: flex;
+}
+.f_4{
+    position: relative;
+    width: 22%;
+    height: 100%;
+    display: flex;
+}
+.f_5{
+    position: relative;
+    width: 8%;
+    height: 100%;
+    display: flex;
+}
+.f_6{
+    position: relative;
+    width: 17%;
+    height: 100%;
+    display: flex;
+}
+
+/* --------------------------------------------------------------------------------------------------------------------------- */
+
+.g_1{
+    position: relative;
+    width: 20%;
+    height: 100%;
+    display: flex;
+}
+.g_2{
+    position: relative;
+    width: 80%;
+    height: 100%;
+    display: flex;
+}
+
+/* --------------------------------------------------------------------------------------------------------------------------- */
+
+.table{
+    position: relative;
+    width: 100%;
+    height: 40vh;
+}
+.conten_tab_tr{
+    position: relative;
+    width: 100%;
+    height: 35vh;
+}
+.tab_tr{
+    position: relative;
+    width: 100%;
+    height: 16%;
+    display: flex;
+}
+
+.text_tabla{
+    position: relative;
+    text-align: center;
+    margin: auto;
+}
+
+.tab{
+    border: solid 0.5px #006e6b;
+    text-align: center;
+}
+
+.tab_1{
+    position: relative;
+    width: 3%;
+    height: 100%;
+    font-size: 0.7em;
+}
+.tab_2{
+    position: relative;
+    width: 12%;
+    height: 100%;
+    font-size: 0.7em;
+    display: flex;
+}
+.tab_3{
+    position: relative;
+    width: 15%;
+    height: 100%;
+    font-size: 0.7em;
+    display: flex;
+}
+.tab_4{
+    position: relative;
+    width: 30%;
+    height: 100%;
+    font-size: 0.7em;
+    display: flex;
+}
+.tab_5{
+    position: relative;
+    width: 19%;
+    height: 100%;
+    font-size: 0.7em;
+    display: flex;
+}
+.tab_6{
+    position: relative;
+    width: 20%;
+    height: 100%;
+    font-size: 0.7em;
+    display: flex;
+}
+
+/* --------------------------------------------------------------------------------------------------------------------------- */
+
+.bloc {
+    position: relative;
+    width: 100%;
+    height: 58vh;
+}
+.bloc_pago {
+    position: relative;
+    width: 100%;
+    height: 10vh;
+    display: flex;
+    border-bottom: solid 0.5px #006e6b;
+}
+
+.text_libr {
+    position: relative;
+    width: 100%;
+    height: 6vh;
+    margin: 2% 0px;
+}
+.text_libr_2 {
+    position: relative;
+    width: 100%;
+    height: 4vh;
+    margin: 2% 0px;
+}
+.text_libr_inter {
+}
+
+.bloc_firma {
+    position: relative;
+    width: 100%;
+    height: 15vh;
+    display: flex;
+    border-bottom: solid 0.5px #006e6b;
+    margin: 10% 0%;
+}
+.firma {
+    position: relative;
+    width: 50%;
+    height: 90%;
+}
+.firma_2 {
+    position: relative;
+    width: 50%;
+    height: 80%; 
+    text-align: end;
+}
+.input_firma {
+    position: relative;
+    width: 50%;
+    height: 40%;
+    border: solid 0;
+    border-bottom: solid 0.5px #006e6b;
+    outline: none;
+}
+
+.input_firma_doc {
+    position: relative;
+    width: 42%;
+    height: 100%;
+    border: solid 0;
+    border-bottom: solid 0.5px #006e6b;
+    outline: none;
+}
+
+.text_firma{
+    position: relative;
+    margin: auto 0.5%;
+    font-size: 0.8em;
+}
+
+.sub_bloc_firma{
+    position: relative;
+    width: 100%;
+    height: 40%;
+    display: flex;
+    justify-content: end;
+}
+
+.conten_tab_tr_2{
+    position: relative;
+    width: 100%;
+    height: 15vh;
+}
+
+.tab_tr_2{
+    position: relative;
+    width: 100%;
+    height: 31%;
+    display: flex;
+}
+
+.tab_a_1{
+    position: relative;
+    width: 10%;
+    height: 100%;
+    font-size: 0.7em;
+    display: flex;
+}
+.tab_a_2{
+    position: relative;
+    width: 45%;
+    height: 100%;
+    font-size: 0.7em;
+    display: flex;
+}
+.tab_a_3{
+    position: relative;
+    width: 45%;
+    height: 100%;
+    font-size: 0.7em;
+    display: flex;
+}
+
+.img_barr_fin {
+    position: relative;
+    width: 100%;
+    height: 5vh;
+    margin: 3% 0px 0px 0px;
+}
+.img_fin {
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+
+.separ_ver{
+    padding: 3% 0 0 0;
+}
+
+.conten_notifi {
+    position: relative;
+    width: 100%;
+    height: 20vh;
+    margin: 3% 0;
+}
+.datos_notifi {
+    position: relative;
+    display: flex;
+}
+.input_firma_notif{
+    position: relative;
+    width: 25%;
+    height: 40%;
+    border: solid 0;
+    border-bottom: solid 0.5px #006e6b;
+    outline: none;
+}
+
+.conten_firma_final {
+    position: relative;
+    width: 100%;
+    height: 35vh;
+    margin: 35% auto 0% auto;
+    display: flex;
+}
+.firma_final {position: relative;
+    width: 50%;
+    height: 100%;
+}
+
+.firma_final_2 {
+    position: relative;
+    width: 50%;
+    height: 100%;
+}
+
+.C_C {
+}
+
+.divis {
+    position: relative;
+    width: 100%;
+    height: 40%;
+    display: flex;
+
+}
+.divis_1{
+    position: relative;
+    width: 100%;
+    height: 40%;
+    display: flex;
+}
+
+.input_firma_final{
+    position: relative;
+    width: 40%;
+    height: 10%;
+    display: flex;
+    border: solid 0;
+    border-bottom: solid 0.5px #006e6b ;
+}
